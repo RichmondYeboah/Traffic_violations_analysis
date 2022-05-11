@@ -1,0 +1,2 @@
+# Data_Capstone_205
+In my endeavors to acccquire my data science certificate at Montgomery College, I successfully completed the capstone project. The purpose of this project was to gain more insight on traffic violations that occured in Montgomery County. While doing so I discovered a few interesting facts and learned valueble skills such as data mining. This project was my pleasure and I hope you are intrigued.
