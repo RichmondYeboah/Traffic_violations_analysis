@@ -1,4 +1,4 @@
-# Insights into Traffic Violations: A Data Science Capstone Project
+## Insights into Traffic Violations: A Data Science Capstone Project
 In my endeavor to acquire my Data science certificate at Montgomery College, I successfully completed the data science capstone project. The purpose of my capstone project was to gain deeper insight on traffic violations that occurred in Montgomery County. While doing so, I discovered a few interesting facts and gained valuable skills in data mining. It was a pleasure to work on this project, and I hope you enjoy it as much as I did.
 
 To view the interative heat map visit the jupyter notebook:
